@@ -2,12 +2,12 @@
 
 This is still "work in progress". I have removed the Orangefox release again now as it was not booting up after flashing it. 
 
-Based on September 2023 Kernel
+Based on September 2023 Kernel (Android 13)
 
 ## Installation methods:
 
-## from recovery:
+## From recovery:
 adb sideload the OrangeFox-R11.1-Unofficial-lynx.zip
 
-## from bootloader/fastboot:
+## From bootloader/fastboot:
 fastboot flash vendor_boot OrangeFox-R11.1-Unofficial-lynx.img
